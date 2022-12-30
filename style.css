@@ -1,0 +1,57 @@
+
+body{
+    background-color: whitesmoke;
+}
+section{
+    width: 90%;
+    border: 1px solid green;
+    margin: auto;
+ background-color: whitesmoke;  
+ 
+}
+#searchbox{
+ 
+    margin: 10px;
+    text-align: center;
+
+}
+.btn-container{
+    display: flexbox;
+    width: 100%;
+   
+  text-align: center;
+    
+}
+.btn-container>button{
+    padding: 10px 40px;
+    margin: 0.8% 13px;
+    background-color: black;
+    color: white;
+}
+
+#table_t{
+    width: 90%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 10px auto;
+}
+#table_t2{
+    width: 90%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 20px auto;
+}
+    
+
+th,td{
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+
+}
+img{
+    width: 30px;
+    margin: 1px 5px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
